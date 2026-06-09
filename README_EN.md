@@ -37,3 +37,7 @@ The window contains:
 If there is enough room, the menu bar at the top also shows `亮度 xx%` (Brightness xx%), but the Dock icon and the window are the main entry points.
 
 The button step is `1%`. It adjusts the built-in display's brightness first.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ai-martin-lau/quit-other-apps&type=Date)](https://star-history.com/#ai-martin-lau/quit-other-apps&Date)
