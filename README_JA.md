@@ -37,3 +37,7 @@
 スペースに余裕があれば、上部のメニューバーにも `亮度 xx%`（明るさ xx%）が表示されますが、Dock アイコンとウィンドウがメインの入口です。
 
 ボタンのステップは `1%` です。優先して内蔵ディスプレイの明るさを調整します。
+
+## スター推移
+
+[![スター推移グラフ](https://api.star-history.com/svg?repos=ai-martin-lau/quit-other-apps&type=Date)](https://star-history.com/#ai-martin-lau/quit-other-apps&Date)
