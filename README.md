@@ -37,3 +37,7 @@
 顶部菜单栏如果空间足够，也会显示 `亮度 xx%`，但 Dock 图标和窗口是主要入口。
 
 按钮步进是 `1%`。它会优先调内置屏幕亮度。
+
+## Star 趋势
+
+[![Star 趋势图](https://api.star-history.com/svg?repos=ai-martin-lau/quit-other-apps&type=Date)](https://star-history.com/#ai-martin-lau/quit-other-apps&Date)
