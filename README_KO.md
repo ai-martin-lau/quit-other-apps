@@ -37,3 +37,7 @@
 공간이 충분하면 상단 메뉴 막대에도 `亮度 xx%`（밝기 xx%）가 표시되지만, Dock 아이콘과 창이 주요 진입점입니다.
 
 버튼 단계는 `1%` 입니다. 내장 디스플레이의 밝기를 우선적으로 조정합니다.
+
+## 스타 히스토리
+
+[![스타 히스토리 차트](https://api.star-history.com/svg?repos=ai-martin-lau/quit-other-apps&type=Date)](https://star-history.com/#ai-martin-lau/quit-other-apps&Date)
