@@ -37,3 +37,7 @@ La ventana contiene:
 Si hay espacio suficiente, la barra de menús superior también muestra `亮度 xx%` (Brillo xx%), pero el icono del Dock y la ventana son los puntos de acceso principales.
 
 El paso del botón es `1%`. Da prioridad al ajuste del brillo de la pantalla integrada.
+
+## Historial de estrellas
+
+[![Gráfico de historial de estrellas](https://api.star-history.com/svg?repos=ai-martin-lau/quit-other-apps&type=Date)](https://star-history.com/#ai-martin-lau/quit-other-apps&Date)
